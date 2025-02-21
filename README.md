@@ -1,9 +1,9 @@
-# hackaton-hd-team-2
-Harley Davidson Hackaton Repo from Team 2 
+# hackaton-hd-Elo-Riders
+Harley Davidson Hackaton Repo from Team Elo Riders 
 
 ## Team members
 - Emmanuel Zambrano -- Mobile developer
 - Gustavo Romero -- SRE
 
-## related Repositories
+## Related Repositories
 - [Elo Riders iOS App](https://github.com/EmmaWize/elo-riders-iOSApp) - The iOS frontend for the Elo Riders proof of concept.
